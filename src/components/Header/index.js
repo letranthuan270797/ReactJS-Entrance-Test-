@@ -1,13 +1,8 @@
 import {
-  Row,
-  Col,
   Card,
   CardText,
   CardTitle,
-  CardBody,
-  CardGroup,
   Navbar,
-  NavbarBrand,
 } from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 

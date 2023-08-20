@@ -31,7 +31,6 @@ export default function LoginForm(props) {
       email: email,
       password: password,
     };
-    // const res = await dispatch(loginUser(loginData));
     try {
       setLoading(true);
       await dispatch(loginUser(loginData));
